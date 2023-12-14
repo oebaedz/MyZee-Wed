@@ -76,6 +76,10 @@ body {
     text-transform: uppercase;
 }
 
+.sticky-top {
+    overflow: hidden;
+}
+
 /* Home Sect */
 .home{
     background-image: url(img/Desain\ tanpa\ judul.png);
